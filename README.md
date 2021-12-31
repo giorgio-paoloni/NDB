@@ -17,6 +17,6 @@ Hypothesis_5: Belong to I0 ONLY items that Belong to I0 or can be generated from
 => I can full-generate I0, that is similar to N (function convert)
 I0 ~ N
 
------
+#
 This is the method used by computer for simulating the Naturals numbers, but it's not all...
 I have not got the formal mathematics demonstration, because I'm not a mathematician. But I think that the N-set is derivated another set, I think the Natural numbers are "Artificial" constructed like or Series or Integrals etc. Yet we are using it like "axiomatic" numbers why we get used to, since we were young, that the maths "starts" here.
