@@ -1,8 +1,6 @@
 # NDB
 Naturals Derivate from Binaries
 #
-NDB = Naturals Derivate from Binaries
-----------------------------------------
 It is a simple C programs that shows how the Naturals number can be demonstrated using SET (and derivated operations) and a minimal set (the binary numers and derivated operations). It do not use the Peano's axiom.
 Obv from natural can be derivated more "complex" set etc.
 
