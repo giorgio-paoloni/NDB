@@ -12,7 +12,7 @@ Hypothesis_3: Exist a set called "I0" that is composed by B. "The basic descript
 
 Hypothesis_4: Exist a function "Gamma": (I0,I0) -> I0 that append two items. Ex:(1,0)->(10) "The generative description"
 
-Hypothesis_5: Belong to I0 ONLY items that Belong to I0 or can be generated from Gamma function
+Hypothesis_5: Belong to I0 ONLY items that Belong to I0 or can be generated from Gamma  ( Γ/ γ) function
 
 => I can full-generate I0, that is similar to N (function convert)
 I0 ~ N
